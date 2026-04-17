@@ -21,7 +21,7 @@ window.APP_USERS = {
         "displayName": "Sharon Santos"
     },
     "Test": {
-        "password": "Test0123",
+        "password": "Test",
         "role": "user",
         "access": [
             "AIRC-BDO core",
